@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                echo "manojs"
+                echo "manoj123"
             }
         }
     }
