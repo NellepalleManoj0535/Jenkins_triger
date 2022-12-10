@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                echo "main braaxansfmkadjfscabams v.ladknjbhzxnxzscascanch1a"
+                echo "main"
             }
         }
     }
