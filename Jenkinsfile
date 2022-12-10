@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                echo "manqqojss123d"
+                echo "manqqojsszczc"
             }
         }
     }
